@@ -1,0 +1,31 @@
+span{
+    margin-left:5%;
+}
+body{
+}
+h3{
+    text-align: center;
+}
+input{
+    margin-left:30%;
+    padding:15px;
+    width:30%;
+    border-radius:5px;
+}
+button{
+    padding: 15px;
+    width:10%;
+    border-radius:10px;
+    background-color: rgb(52, 84, 173);
+    color:whitesmoke;
+    border-style: none;
+}
+.delete{
+    background-color:rgb(235, 2, 2);
+}
+.list{
+    text-align: center;
+}
+li{
+    text-align: center;
+}
