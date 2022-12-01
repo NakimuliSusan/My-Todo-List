@@ -1,5 +1,5 @@
 import React, {useEffect} from "react";
-import '/home/user/Documents/My-Todo-List/todo-list/src/Todo-List/Todo-List.css'
+import './Todo-List.css'
 
 
 const TodoList = () =>{
